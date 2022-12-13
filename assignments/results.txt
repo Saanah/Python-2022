@@ -1,0 +1,5 @@
+06_modulit_kt1	1	1
+06_modulit_kt2	1	1
+06_modulit_kt3	1	1
+06_modulit_kt4	1	1
+06_modulit_kt5	1	1

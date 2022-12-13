@@ -1,0 +1,5 @@
+05_luokat_kt1	1	1
+05_luokat_kt2	1	1
+05_luokat_kt3	1	1
+05_luokat_kt4	1	1
+05_luokat_kt5	1	1

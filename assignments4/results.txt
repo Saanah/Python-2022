@@ -1,0 +1,5 @@
+04_funktiot_kt1	1	1
+04_funktiot_kt2	1	1
+04_funktiot_kt3	1	1
+04_funktiot_kt4	1	1
+04_funktiot_kt5	1	1

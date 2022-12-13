@@ -6,8 +6,8 @@ for x in range(10):
     with open("loveu.txt", "r") as l:
         for word in l:
             for chr in word:
-                chr2 = chr.upper()
-                pyautogui.write(chr2)
+                chrUpper = chr.upper()
+                pyautogui.write(chrUpper)
                 pyautogui.press("enter")
 
 
